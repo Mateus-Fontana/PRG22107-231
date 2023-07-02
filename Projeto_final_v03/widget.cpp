@@ -31,7 +31,7 @@ void Widget::on_botao_ok_clicked()
     else
     {
         QMessageBox::warning(this,tr("Aviso!"),tr("Para adicionar o monitoramento de um novo IP, o monitoramento atual do IP será encerrado."));
-        on_close2_clicked();
+        on_close2__clicked();
         i = 0;
     }
 
@@ -47,12 +47,14 @@ void Widget::updateStatusLabel(const QString status)
 }
 
 
-void Widget::on_close2_clicked()
+
+
+
+
+
+
+void Widget::on_close2__clicked()
 {
-        pingModel->finished();
+    pingModel->finished();
 }
-
-
-
-
 
