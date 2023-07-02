@@ -31,24 +31,5 @@ private:
     Ui::Widget *ui;
     Ping *pingModel;
 
-
-   //Setando os parametros do layout
-  //  QHBoxLayout _layout; //Coloca os widgets horizontalmente
-
-    // Texto indicando "IP"
-   // QLabel _ip;
-    // Lugar onde o usuário irá digitar o IP
-   // QLineEdit _valorip;
-
-    // Status do IP se está ONLINE ou OFFLINE.
-   // QLabel _status;
-
-    //Botão de OK
- //   QPushButton _buttonok;
-
-    //Será onde o Ips será monitorados
- //   QListView _listips;
-
-
 };
 #endif // WIDGET_H
