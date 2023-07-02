@@ -24,12 +24,12 @@ public:
 private slots:
     void on_botao_ok_clicked();
     void updateStatusLabel(const QString status);
-    void on_close2_clicked();
-
+    void on_close2__clicked();
 
 private:
     Ui::Widget *ui;
     Ping *pingModel;
+
 
 };
 #endif // WIDGET_H
