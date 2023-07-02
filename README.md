@@ -40,7 +40,7 @@ O projeto é desenvolvido em C++ com o auxílio do framework QtCreator, uma ferr
 
 Para próximos estudos pode-se implementar o monitoramento de vários dispositivos ao mesmo momento, dessa forma, será possível criar um aplicativo de monitoramento de uma rede interna, se algum dispositivo cair, deve-se gerar um alerta para alguma ação ser tomada.
 
-# Conclusão
+## Conclusão
 
 O programa desenvolvido em C++ utilizando o framework Qt Creator é uma solução eficiente para monitorar o ping e o status de dispositivos em uma rede. Com uma interface gráfica amigável e funcionalidades relevantes, o projeto contribui para a identificação rápida de problemas de conectividade. Além disso, a aplicação versátil permite seu uso em diversos cenários. Com o desenvolvimento desse projeto, foi possível aprimorar habilidades em programação orientada a objetos em C++.
 
