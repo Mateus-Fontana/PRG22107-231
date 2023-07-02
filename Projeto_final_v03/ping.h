@@ -13,7 +13,6 @@ public:
     ~Ping();
 
     void start_command(QString addr);
-    //bool is_running();
     void finished();
     int  exitCode();
 
